@@ -1,0 +1,1 @@
+[{"key": "k_bool", "value": true, "value_type": "bool", "version": 1, "file_size": 90, "entry_count": 3}, {"key": "k_str", "value": "hello", "value_type": "str", "version": 1, "file_size": 90, "entry_count": 3}, {"key": "k_int", "value": 42, "value_type": "int", "version": 1, "file_size": 90, "entry_count": 3}]

@@ -1,0 +1,35 @@
+{
+  "file_path": "C:\\nuitka_build\\dataconvert\\tests_e2e\\input\\data.json",
+  "file_size": 193,
+  "format": "JSON",
+  "stats": {
+    "record_count": 3,
+    "field_count": 4
+  },
+  "columns": [
+    "id",
+    "name",
+    "score",
+    "active"
+  ],
+  "sample_data": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "score": 95.5,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "score": 82.0,
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Cheng",
+      "score": 71.25,
+      "active": true
+    }
+  ]
+}

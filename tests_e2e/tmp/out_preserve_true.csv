@@ -1,0 +1,5 @@
+#dtypes:{"id": "int64", "name": "object", "score": "float64", "active": "bool"}
+id,name,score,active
+1,Alice,95.5,True
+2,Bob,82.0,False
+3,Carl,71.25,True

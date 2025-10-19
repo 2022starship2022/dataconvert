@@ -1,0 +1,16 @@
+{
+  "file_path": "tests_e2e/input/data.json",
+  "is_valid": true,
+  "errors": [],
+  "warnings": [],
+  "stats": {
+    "record_count": 3,
+    "field_count": 4,
+    "columns": [
+      "id",
+      "name",
+      "score",
+      "active"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><row><id>1</id><user>{"name": "Alice", "contact": {"email": "alice@example.com", "phone": "123"}}</user><tags>["x", "y"]</tags><scores>{"math": 95, "english": 88}</scores></row><row><id>2</id><user>{"name": "Bob", "contact": {"email": "bob@example.com"}}</user><tags>[]</tags><scores>{"math": 78, "english": 91}</scores></row></root>

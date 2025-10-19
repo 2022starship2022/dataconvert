@@ -1,0 +1,5 @@
+log_level: DEBUG
+no_color: true
+verbose: true
+csv:
+  preserve_dtypes: true

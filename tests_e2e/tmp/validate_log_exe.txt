@@ -1,0 +1,2 @@
+[12:14:30] INFO     [cli.main] 验证文件: tests_e2e/input/data.json
+[12:14:30] INFO     [core.unified_format_processor] 成功读取JSON文件: tests_e2e/input/data.json, 行数: 3

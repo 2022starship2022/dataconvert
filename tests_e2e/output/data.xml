@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><row><id>1</id><name>Alice</name><score>95.5</score><active>True</active></row><row><id>2</id><name>Bob</name><score>82.0</score><active>False</active></row><row><id>3</id><name>Cheng</name><score>71.25</score><active>True</active></row></root>
